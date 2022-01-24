@@ -26,6 +26,10 @@ Example ``monospace`` Text.
 
 This is an `example hyperlink <https://hiemstraonlindesdesign.com>`_.
 
+.. literalinclude:: index.php
+   :linenos:
+   :language: php
+
 Subheading
 ----------
 

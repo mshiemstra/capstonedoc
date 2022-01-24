@@ -2,7 +2,7 @@ CIS385 - Capstone Test Automation
 =================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    subject/index
