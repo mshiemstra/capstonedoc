@@ -16,7 +16,7 @@ pages so any updates to styles or functions only have to be executed once.
 
 I also created a styles.css sheet for the site's styles.
 
-.. code-block:: html
+.. code-block:: html+php
 
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
