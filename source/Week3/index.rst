@@ -24,6 +24,7 @@ code tags as plain text, so hopefully hackers have a harder time manipulating
 the form and preventing sql injections.
 
 .. code-block:: php
+
   action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);
 
 
@@ -35,6 +36,7 @@ regular expressions to verify a value has been entered in the input box, and
 only letters and whitespaces are entered in the First Name field.
 
 .. code-block:: PHP
+
         if (empty($_POST["student_fName"])){
 			$student_fName_error = "Student's first name is required";
 		}

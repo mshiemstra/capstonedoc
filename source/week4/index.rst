@@ -17,6 +17,7 @@ pages so any updates to styles or functions only have to be executed once.
 I also created a styles.css sheet for the site's styles.
 
 .. code-block:: html
+
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta name="author" content="Matt Hiemstra">
@@ -39,6 +40,7 @@ teachers.
 
 
 .. image:: C:\xampp\htdocs\hiemstraonlinedesign.com\school-files\simpson\spring_2022\capstone\images\capstone_database.png
+
    :width: 400
    :alt: Capstone Database Tables
 
@@ -46,6 +48,7 @@ After creating the database and tables, I created a db.php sheet containing the
 following code to connect to the main database:
 
 .. code-block:: php
+
       <?php
         $servername = "localhost";
         $username = "mshiemstra";
@@ -64,6 +67,7 @@ the end user will enter the new student's information such as their student id,
 name, and address.
 
 .. image:: C:\xampp\htdocs\hiemstraonlinedesign.com\school-files\simpson\spring_2022\capstone\images\student_table.png
+
    :width: 600
    :alt: Capstone Student Table
 
@@ -77,11 +81,13 @@ validations, and a formValidations.js sheet to assist with initial security
 
 A short example of the formHandling.php is:
 .. image:: C:\xampp\htdocs\hiemstraonlinedesign.com\school-files\simpson\spring_2022\capstone\images\php_formHandling.png
+
    :width: 600
    :alt: PHP formHandling example
 
 A short example of the formValidations.js is:
 .. code-block:: js
+
       function student_firstName() {
           let student_fName = document.getElementById("student_fName").value;
 

@@ -24,6 +24,7 @@ to be displayed on the site.  There is a table to collect each of the following:
 So far, only the Class, Student, and Teacher tables have been created:
 
 .. image:: C:\xampp\htdocs\hiemstraonlinedesign.com\school-files\simpson\spring_2022\capstone\images\capstone_database.png
+
    :width: 400
    :alt: Capstone Database Tables
 
@@ -34,6 +35,7 @@ After building the capstone database, I started with creating the student table
 which will allow student records to be inserted.
 
 .. image:: C:\xampp\htdocs\hiemstraonlinedesign.com\school-files\simpson\spring_2022\capstone\images\student_table.png
+
    :width: 600
    :alt: Capstone Student Table
 
@@ -44,6 +46,7 @@ to the database is needed.  Without this, no records will be entered into any
 of the tables, meaning nothing will show up when pulling the query.
 
 .. code-block:: php
+
       <?php
         $servername = "localhost";
         $username = "mshiemstra";

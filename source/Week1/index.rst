@@ -13,6 +13,7 @@ stylesheets that will be imported into the website.  These pages include the
 CSS, Javascript, PHP, and database files.
 
 .. code-block:: html
+
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta name="author" content="Matt Hiemstra">
