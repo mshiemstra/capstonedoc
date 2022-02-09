@@ -6,5 +6,6 @@ CIS385 - Capstone Test Automation
    :caption: Contents:
 
    subject/index
+   week4/index
    another_subject/index
    example/index
