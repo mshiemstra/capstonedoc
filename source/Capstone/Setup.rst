@@ -1,8 +1,8 @@
-Week 1 Progress (total 10 hours)
-================================
+The Website Foundation
+======================
 
-The Setup (10 hours)
--------------------
+Setup
+-----
 I built the basic foundation of the website primarily in HTML5 and CSS.  I used
 PHP to include standard sections such as the <head>.  For most of the objects in
 the head, there will be no changes, and if there are, those changes will need to

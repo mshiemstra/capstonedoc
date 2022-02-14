@@ -1,11 +1,11 @@
-CIS385 - Capstone Test Automation
-=================================
+CIS385 - Capstone
+=================
 
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
 
-   subject/index
-   week4/index
-   another_subject/index
-   example/index
+   Capstone/Setup
+   Capstone/Database
+   Capstone/Forms
+   Capstone/Validations

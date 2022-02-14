@@ -1,8 +1,9 @@
-Capstone Development - Part 1 (total 10 hours)
-==============================================
+The Database
+============
 
-Database Creation (2 hours)
----------------------------
+Creating the Database
+---------------------
+
 In order for the end user to pull the information they may need, whether it's a
 teacher wanting to see their students and the grades, or the student wanting
 to see what class they're enrolled in, a database is needed to collect that
@@ -23,24 +24,22 @@ to be displayed on the site.  There is a table to collect each of the following:
 
 So far, only the Class, Student, and Teacher tables have been created:
 
-.. image:: C:\xampp\htdocs\hiemstraonlinedesign.com\school-files\simpson\spring_2022\capstone\images\capstone_database.png
-
+.. image:: capstone_database.png
    :width: 400
    :alt: Capstone Database Tables
 
 
-Database Setup (4 hours)
-------------------------
+Database Tables
+---------------
 After building the capstone database, I started with creating the student table
 which will allow student records to be inserted.
 
-.. image:: C:\xampp\htdocs\hiemstraonlinedesign.com\school-files\simpson\spring_2022\capstone\images\student_table.png
-
+.. image:: student_table.png
    :width: 600
    :alt: Capstone Student Table
 
-Database Connection (3 hours
--------------------
+Connecting Database to the Website
+----------------------------------
 Since the database has now been created and setup, a connection from the website
 to the database is needed.  Without this, no records will be entered into any
 of the tables, meaning nothing will show up when pulling the query.
