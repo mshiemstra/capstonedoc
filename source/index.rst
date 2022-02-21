@@ -9,3 +9,4 @@ CIS385 - Capstone
    Capstone/Database
    Capstone/Forms
    Capstone/Validations
+   Capstone/Report
