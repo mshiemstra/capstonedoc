@@ -42,12 +42,12 @@ Week 4 (total 10 hours)
 
 - Reformatted the structure and content of reStructuredText
 
-+ Renamed all files and moved them from each PyCharm folder and added them to
+- Renamed all files and moved them from each PyCharm folder and added them to
 the main Capstone folder
 
-+ Deleted all extra folders under the Capstone folder
+- Deleted all extra folders under the Capstone folder
 
-+ Updated all content to better identify the purpose of each page
+- Updated all content to better identify the purpose of each page
 
 - Discussed progression of the capstone project with Paul
 
