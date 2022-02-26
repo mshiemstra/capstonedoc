@@ -67,8 +67,8 @@ Week 6 (total 10 hours)
 
 - Discussed progression of the capstone project with Paul
 
-Week 7
-------
+Week 7 (total 10 hours)
+-----------------------
 - Discussed the capstone project with Paul Craven (1 hour)
 - Worked on formValidation.js (2 hours)
 - Worked on formHandling.php (3 hours)
