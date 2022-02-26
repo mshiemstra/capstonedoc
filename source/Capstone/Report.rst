@@ -66,3 +66,12 @@ Week 6 (total 10 hours)
 - Attempted to resolve issues with the PHP validation (unsuccessful)
 
 - Discussed progression of the capstone project with Paul
+
+Week 7
+------
+- Discussed the capstone project with Paul Craven (1 hour)
+- Worked on formValidation.js (2 hours)
+- Worked on formHandling.php (3 hours)
+- Updated delete.php to add confirmation pop-up (1 hours)
+- Rearranged project folders and files (1 hour)
+- Created the teachers.php page and all associated files to work like students.php (2 hours)
