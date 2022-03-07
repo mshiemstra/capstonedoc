@@ -75,3 +75,16 @@ Week 7 (total 10 hours)
 - Updated delete.php to add confirmation pop-up (1 hours)
 - Rearranged project folders and files (1 hour)
 - Created the teachers.php page and all associated files to work like students.php (2 hours)
+
+Week 8 (total 10 hours)
+-----------------------
+
+- Discussed capstone project with Paul Craven (30 minutes)
+- Created the 'enrollment' table in the 'capstone' database (20 minutes)
+- Built enrollment.php page on the site (10 minutes)
+- Spoke with Paul Craven regarding issues with only displaying one record (15 minutes)
+- Writing query to display all students in their respective classes (2 hour)
+- Troubleshooting why only one record was displaying after running the query (3 hours)
+- Researched online how to show the number of students in each class (30 minutes)
+- Created query on the classes page to show how many students are in each class (3 hours)
+- Added records to the classes database (15 minutes)
