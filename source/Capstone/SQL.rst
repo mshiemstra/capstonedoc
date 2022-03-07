@@ -13,8 +13,9 @@ the website.
 
 .. code-block:: PHP
 
-     $sql = "SELECT C.class_id, C.class_desc, C.class_name, C.class_teacher,
-             C.class_term, E.student_id, COUNT(*) AS student_count
+     $sql =
+     "SELECT C.class_id, C.class_desc, C.class_name, C.class_teacher, C.class_term,
+             E.student_id, COUNT(*) AS student_count
      FROM class AS C, enrollment AS E, student AS S
      WHERE E.class_id = C.class_id
      AND E.student_id = S.student_id
