@@ -11,3 +11,4 @@ CIS385 - Capstone
    Capstone/Validations
    Capstone/Report
    Capstone/SQL
+   Capstone/Search
