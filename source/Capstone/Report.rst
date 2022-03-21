@@ -96,3 +96,11 @@ Week 9 (total 10 hours)
 - Converted JavaScript functions to jQuery (4 hours)
 - Adjusting jQuery functions to work as original JavaScript did (2 hours)
 - Practiced getting JSON to work (unsuccessfully) (3 hours)
+
+Week 10 (total 10 hours)
+------------------------
+
+- Zoom meeting with Paul Craven (1 hour)
+- Research JSON (6 hours)
+- Attempt to add a check/fail system to identify if the student's id is in the
+db - unsuccessful (3 hours)
