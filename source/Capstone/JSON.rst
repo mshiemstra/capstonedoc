@@ -17,6 +17,7 @@ into the database.
 Here are some examples of the updates:
 
 JSON:
+
 .. code-block:: json
 
        const serialize_form = form => JSON.stringify(
@@ -44,6 +45,7 @@ JSON:
      });
 
 PHP:
+
 .. code-block:: php
 
      $sql = "SELECT * FROM class WHERE class_id = $class_id";
