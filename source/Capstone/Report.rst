@@ -102,5 +102,6 @@ Week 10 (total 10 hours)
 
 - Zoom meeting with Paul Craven (1 hour)
 - Research JSON (6 hours)
-- Attempt to add a check/fail system to identify if the student's id is in the
-db - unsuccessful (3 hours)
+- Updated enroll_student_process to check if a student is already enrolled in a
+class (2 hour)
+- Started updated new_student to JSON (1 hour)
