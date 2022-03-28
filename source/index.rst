@@ -13,3 +13,4 @@ CIS385 - Capstone
    Capstone/SQL
    Capstone/Search
    Capstone/JSON
+   Capstone/Pages

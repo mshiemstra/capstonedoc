@@ -105,3 +105,14 @@ Week 10 (total 10 hours)
 - Updated enroll_student_process to check if a student is already enrolled in a
 class (2 hour)
 - Started updated new_student to JSON (1 hour)
+
+Week 11 (total 10 hours)
+------------------------
+
+- Zoom meeting with Paul Craven (1 hour)
+- Re-organizing structure (2 hours)
+- Zoom meeting with Paul Craven to help fix issues from the re-org (20 minutes)
+- Converting Teacher pages to JSON (4 hours)
+- Adding the teacher_info.php page and getting it to work (1 hour)
+- Adding the new_teacher_process.php page and getting it to work (1 hour)
+- Updating the includes to pull from the database after the re-org (40 minutes)
