@@ -116,3 +116,12 @@ Week 11 (total 10 hours)
 - Adding the teacher_info.php page and getting it to work (1 hour)
 - Adding the new_teacher_process.php page and getting it to work (1 hour)
 - Updating the includes to pull from the database after the re-org (40 minutes)
+
+Week 12 (total 10 hours)
+------------------------
+
+- Zoom meeting with Paul Craven (1 hour)
+- Created all pages for Classes (7 hours)
+- Updated classes table (15 minutes)
+- Updated students and teachers pages (2 hours and 45 minutes)
+

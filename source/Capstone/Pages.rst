@@ -47,3 +47,53 @@ has not been setup up yet.
 Once they page HAS been setup, there will be a button to click to select a class
 the teacher is teaching, which will direct the user to a page that lists all of
 the students enrolled in that class and the grade each of the students have.
+
+Classes Page
+------------
+
+The classes table includes the class, and the teacher's id.  The Classes page
+displays the classes, the teacher's first and last name, and what term the class
+is in. This information is pulled by the class id in the classes table to display
+the class names, etc, and the persons table to display the teachers first and last
+name.
+
+.. code-block:: PHP
+
+     SELECT C.class_id,
+            C.class_term,
+            C.class_desc,
+            C.class_name,
+            C.person_id,
+            P.person_id,
+            P.person_fName,
+            P.person_lName,
+            COUNT(*) AS student_count
+     FROM class AS C,
+          enrollment AS E,
+          person AS P
+     WHERE E.class_id = C.class_id
+          AND C.person_id = P.person_id
+     GROUP BY class_id
+
+In the classes page, there is a button the user can click to add a new class. The
+button directs the user to a form asking for the specific details of the new class.
+Part of the information the form asks for is the teacher's ID to assign a teacher
+to it.
+
+The form handling of the "add class" page checks to see if the user is trying to
+add another class or not.  If they are, the form will not be submitted and a
+message will display (currently in console.log) to advise.
+
+.. code-block:: PHP
+
+     $sql = "SELECT * FROM class WHERE class_id = $class_id";
+     $result = $conn->query($sql);
+
+     if($result->num_rows == 1) {
+         $message = 'Class has already been created';
+         echo "{\"message\":\"$message\", \"success\":false}";
+         exit;
+     }
+     else {
+
+     }
