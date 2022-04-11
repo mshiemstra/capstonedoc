@@ -1,5 +1,5 @@
-Creating the Student & Teacher Pages
-====================================
+Creating Pages
+==============
 
 Now that the database and tables have been setup, the SQL connection has been
 established, the form handling and validations have been setup and are working,
