@@ -125,3 +125,11 @@ Week 12 (total 10 hours)
 - Updated classes table (15 minutes)
 - Updated students and teachers pages (2 hours and 45 minutes)
 
+Week 13 (total 10 hours)
+------------------------
+
+- Zoom meeting with Pautl Craven (1 hour)
+- Updated all data tables to a more modern, sheek, style (2 hours)
+- Fixed all functions to accommodate the new data tables (3 hours)
+- Updated all of the forms to a more modern, sheek, style (2 hours)
+- Fixed all functions to accommodate the new form styles (2 hours)

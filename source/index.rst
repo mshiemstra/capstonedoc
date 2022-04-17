@@ -15,3 +15,4 @@ CIS385 - Capstone
    Capstone/JSON
    Capstone/Pages
    Capstone/Tables
+   Capstone/Finalization_pt1
