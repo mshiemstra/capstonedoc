@@ -18,6 +18,17 @@ of the forms and data tables and confirmed they are working.  I updated the tabl
 to a more modern, sheek, look that clearly displays the data a student or teacher
 may find useful while attending or teaching at Simpson.
 
+Here is an example of what the new updated data tables look like:
+.. image:: capstone_datatable.png
+   :width: 600
+   :alt: Modernized Data Table
+
+Here is an example of what the new forms look like:
+
+.. image:: capstone_form.png
+   :width: 600
+   :alt: Modernized Form
+
 I am still planning on tweaking a few things before I call it good on this project
 to meet (and hopefully exceed) the requirements of the course, then in my own time,
 I will work on creating a login structure so teachers can see information relevant
