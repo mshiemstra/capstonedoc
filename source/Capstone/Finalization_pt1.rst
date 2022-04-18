@@ -19,6 +19,7 @@ to a more modern, sheek, look that clearly displays the data a student or teache
 may find useful while attending or teaching at Simpson.
 
 Here is an example of what the new updated data tables look like:
+
 .. image:: capstone_datatable.png
    :width: 600
    :alt: Modernized Data Table
