@@ -16,3 +16,4 @@ CIS385 - Capstone
    Capstone/Pages
    Capstone/Tables
    Capstone/Finalization_pt1
+   Capstone/Reflection
