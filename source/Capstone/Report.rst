@@ -133,3 +133,12 @@ Week 13 (total 10 hours)
 - Fixed all functions to accommodate the new data tables (3 hours)
 - Updated all of the forms to a more modern, sheek, style (2 hours)
 - Fixed all functions to accommodate the new form styles (2 hours)
+
+Final Report - Reflective Summary (total 10 hours)
+--------------------------------------------------
+
+- Zoom meeting with Paul Craven (1.5 hours)
+- Updated the forms on the website using JSON (3 hours)
+- Added the "edit" function to allow end users to update database records (3 hours)
+- Zoom meeting with Paul Craven (30 minutes)
+- Reflective Summary (2 hours)
